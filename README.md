@@ -4,9 +4,9 @@
 
 Docker Hub：https://hub.docker.com/r/m0x1n/nginx_mysql_php73
 
-GitHub：https://github.com/Moxin1044/niginx_mysql_php73
+GitHub：https://github.com/Moxin1044/nginx_mysql_php73
 
-Gitee：https://gitee.com/Moxin1044/niginx_mysql_php73
+Gitee：https://gitee.com/Moxin1044/nginx_mysql_php73
 
 # 文件说明
 
