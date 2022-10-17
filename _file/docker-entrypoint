@@ -1,0 +1,7 @@
+#!/bin/sh
+
+nginx &
+
+echo "Running..."
+
+tail -F /dev/null

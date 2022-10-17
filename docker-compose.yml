@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+
+  web:
+    build: .
+    image: m0x1n/nginx_mysql_php73
+    restart: always
+    ports:
+      - "80:80"
+    environment:
+      - FLAG=testflag
