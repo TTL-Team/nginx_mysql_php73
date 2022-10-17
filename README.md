@@ -1,5 +1,13 @@
 # 说明
 
+其他环境：
+
+https://github.com/Moxin1044/nginx_mysql_php56
+
+https://gitee.com/Moxin1044/nginx_mysql_php56
+
+https://hub.docker.com/r/m0x1n/nginx_mysql_php56
+
 这个仓库中存储的是一个Web环境，包含了完整的LNMP环境，并且支持CTF题目动态Flag。
 
 Docker Hub：https://hub.docker.com/r/m0x1n/nginx_mysql_php73
