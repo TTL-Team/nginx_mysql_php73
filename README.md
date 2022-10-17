@@ -2,6 +2,12 @@
 
 这个仓库中存储的是一个Web环境，包含了完整的LNMP环境，并且支持CTF题目动态Flag。
 
+Docker Hub：https://hub.docker.com/r/m0x1n/nginx_mysql_php73
+
+GitHub：https://github.com/Moxin1044/niginx_mysql_php73
+
+Gitee：https://gitee.com/Moxin1044/niginx_mysql_php73
+
 # 文件说明
 
 在www目录下，放置网站源码。在www目录下，flag.sh是配置动态flag的，db.sql是数据库文件，其余则为网站文件。
@@ -46,7 +52,7 @@ php读取动态flag：
 ```yaml
 $flag = getenv('FLAG');
 if($flag=="not_flag" or $flag==""){
-    $flag="qsnctf{test_flag}"; # 测试flag
+	  $flag="qsnctf{test_flag}"; # 测试flag
 }
 ```
 
