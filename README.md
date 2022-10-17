@@ -52,7 +52,7 @@ php读取动态flag：
 ```yaml
 $flag = getenv('FLAG');
 if($flag=="not_flag" or $flag==""){
-	  $flag="qsnctf{test_flag}"; # 测试flag
+   $flag="qsnctf{test_flag}"; # 测试flag
 }
 ```
 
